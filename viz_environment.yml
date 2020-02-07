@@ -126,3 +126,5 @@ dependencies:
   - zeromq=4.3.2=h6de7cb9_2
   - zipp=0.6.0=py_0
   - zlib=1.2.11=h0b31af3_1006
+prefix: /Users/jenna/anaconda3/envs/ds-viz-plotly
+
